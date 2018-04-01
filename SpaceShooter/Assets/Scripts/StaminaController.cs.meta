@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f992b6c809e8e5a4da2ad0098c498cf4
+timeCreated: 1450704176
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - staminaBar: {instanceID: 0}
+  - clipReadyToUse: {fileID: 8300000, guid: e21b9a93e845b514e904c0e716a70f91, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
